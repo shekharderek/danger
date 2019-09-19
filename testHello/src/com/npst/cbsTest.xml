@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<input Operation="DebitCardDetails(SessionContext, String)" Service="CANARACustomerDetailsManagerService">
+    <SessionContext>
+        <SupervisorContext>
+            <PrimaryPassword />
+            <UserId />
+        </SupervisorContext>
+        <BankCode>15</BankCode>
+        <Channel />
+        <ExternalBatchNumber />
+        <ExternalReferenceNo />
+        <ExternalSystemAuditTrailNumber />
+        <LocalDateTimeText />
+        <OriginalReferenceNo />
+        <OverridenWarnings />
+        <PostingDateText />
+        <ServiceCode />
+        <SessionTicket />
+        <TransactionBranch>906</TransactionBranch>
+        <UserId>SYSTEM01</UserId>
+        <UserReferenceNumber>987</UserReferenceNumber>
+        <ValueDateText />
+    </SessionContext>
+    <MobileNo>{0}</MobileNo>
+    <CustomerID>0</CustomerID>
+    <AccountNumber />
+</input>
